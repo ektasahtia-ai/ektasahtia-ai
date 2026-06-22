@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE Student | 💻 Tech Enthusiast | Future Innovator | Data Science<br><br>🎓 B.Tech CSE Student<br>💡 Passionate about Technology, Development & Innovation<br>🌱 Currently learning DSA, C++, Web Development & AI<br>🎯 Exploring opportunities to grow and build impactful projects<br>✨ Love mixing creativity with coding
+CSE Student | 💻 Tech Enthusiast | Future Innovator | Data Science<br><br>🎓 B.Tech CSE Student<br>💡 Passionate about Technology, Development & Innovation<br>🌱 Currently learning DSA, C++, Web Development & AI<br>🎯 Exploring opportunities to grow and build impactful projects<br>✨ Love mixing creativity with coding   🎓 B.Tech CSE Student<br><br>💻 Tech Enthusiast | 🤖 Generative AI Explorer | 🚀 Future Innovator<br><br>🌱 Currently learning DSA, C++, Web Development, and AI<br>🧠 Fascinated by Generative AI, Machine Learning, and emerging technologies<br>🔨 Building projects to strengthen my problem-solving and development skills<br>🎯 Aspiring to create impactful AI-driven solutions<br>✨ Passionate about turning ideas into reality through code
 
 
 ## 🌐 Socials:
